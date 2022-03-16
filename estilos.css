@@ -39,9 +39,16 @@ body{
     
 
 }
+h1 {
+    text-align: center;
+}
+h2:hover {
+color: red;
+}
 
 h2 {
     text-align: center;
+    
 }
 
 .contenido .matt {
@@ -85,7 +92,7 @@ h2 {
 }
 .contenedor .footer{
     grid-area: footer;
-    
+    background: linear-gradient(70deg,blue,red,yellow);
     
 }
 
